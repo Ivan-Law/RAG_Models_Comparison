@@ -15,15 +15,15 @@ With different open-source LLM models in the market, it is interesting to see va
 
 # Engaged Tools
 
-<img src="https://github.com/user-attachments/assets/6fd5691a-63ad-44ac-bdd7-9bae3fc504aa" width="180"/>
+<img src="https://github.com/user-attachments/assets/6fd5691a-63ad-44ac-bdd7-9bae3fc504aa" width="130"/>
 
-<img src="https://github.com/user-attachments/assets/d1790845-a376-4fbe-bf1b-35364678b359" width="180"/>
+<img src="https://github.com/user-attachments/assets/d1790845-a376-4fbe-bf1b-35364678b359" width="130"/>
 
-<img src="https://github.com/user-attachments/assets/fc4a7c70-377c-4372-bff2-dc984a01058b" width="180"/>
+<img src="https://github.com/user-attachments/assets/fc4a7c70-377c-4372-bff2-dc984a01058b" width="130"/>
 
-<img src="https://github.com/user-attachments/assets/9b2a6f41-206b-4376-ba92-20ce3c8f3e3e" width="180"/>
+<img src="https://github.com/user-attachments/assets/9b2a6f41-206b-4376-ba92-20ce3c8f3e3e" width="130"/>
 
-<img src="https://github.com/user-attachments/assets/ebb4b5a4-a088-4839-9617-6a04ecb7a1b6" width="180"/>
+<img src="https://github.com/user-attachments/assets/ebb4b5a4-a088-4839-9617-6a04ecb7a1b6" width="130"/>
 
 Ollama, HuggingFace, FAISS, LangChain and LangGraph
 
