@@ -1,13 +1,13 @@
 # RAG Models Comparison
-Chatting With Your Own Document - Building a Local RAG using LangChain and LangGraph with Various Open-Source LLM Models
+Chatting With Your Own Document - Building a local RAG using LangChain and LangGraph with various open-source LLM models comparison 
 
-<p align="center"><img src="https://github.com/user-attachments/assets/1ceb7ab2-e7cf-47dd-91ad-7d0e87a10c5c" width="500"/></p>
-
+<p align="center"><img src="https://github.com/user-attachments/assets/b9324726-8d56-4b9d-8dcb-3b04c4041444" width="500"/></p>
+                    
 # Introduction
 
 Imagine if Lionel Messi, Stephen Curry, Novak Djokovic, and a few other sports legends all showed up to play the same game. Chaos? Absolutely. Fairness? Questionable. Entertainment? Guaranteed. Now, swap those superstars for open-source Large Language Models (LLMs) and you’ve got yourself a showdown of epic AI proportions. Who will score the highest? Who will fumble? And who will just politely pass the ball? The curiosity is real, and so is the fun in seeing how these brainy bots behave when tasked with the same job.
 
-# Comparison Objective
+# LLM Models Comparison Objective
 
 Retrieval-Augmented Generation (RAG) is a technique that makes AI language models, like ChatGPT to generate text with a smart search of relevant information from external sources. Without additional training, when we ask a question, our program will firstly search a special database of the document. The technique is called embedding which turns words and documents into numerical vectors. The retrieved information is then combined with our questions and fed into the language model which helps the AI to give answers. 
 
@@ -24,6 +24,8 @@ With different open-source LLM models in the market, it is interesting to see va
 <img src="https://github.com/user-attachments/assets/9b2a6f41-206b-4376-ba92-20ce3c8f3e3e" width="180"/>
 
 <img src="https://github.com/user-attachments/assets/ebb4b5a4-a088-4839-9617-6a04ecb7a1b6" width="180"/>
+
+Ollama, HuggingFace, FAISS, LangChain and LangGraph
 
 # Key features
 
@@ -42,7 +44,7 @@ With different open-source LLM models in the market, it is interesting to see va
 # Reference document feeding to local RAG
 https://www.biosciences-labs.bham.ac.uk/filatov/cv.txt
 
-# Open-source LLMs used for LangChain-Ollama
+# Open-source LLMs used for comparison
 
 - gemma3:1b
 - qwen3:1.7b
@@ -53,14 +55,14 @@ https://www.biosciences-labs.bham.ac.uk/filatov/cv.txt
 - deepseek-r1:1.5b
 - deepseek-r1:8b
 
-# Queries to ask in local RAG (for each model)
+# Queries feeding to local RAG (for each model)
 - Which university did he or she get Ph.D.?
 - Which countries did he or she work afterwards?
 - Apart from English, what other languages does he or she speak?
 
-# Comparison Result
-<p align="center"><img src="https://github.com/user-attachments/assets/1f62dc71-768c-415a-b736-fa6cdcc7f7a5" width="700"/></p>
-
+# Comparison results
+<p align="center"><img src="https://github.com/user-attachments/assets/626ef4d0-00d2-49f9-ae80-89f64cd857b5" width="700"/></p>
+                    
 # Answers to the queries by each model
 
 -------------------------------------------------
